@@ -37,9 +37,3 @@ O sistema utiliza um leitor RFID (módulo MFRC522) conectado a um Arduino Uno pa
 2. Conecte o módulo RFID ao Arduino seguindo o layout de pinos indicado no código.
 3. Carregue o código no Arduino e execute-o.
 4. O sistema lerá os cartões RFID e registrará as entradas e saídas dos alunos.
-
-## Equipe e Contato
-
-Este projeto foi desenvolvido por um autor não especificado. Para dúvidas ou sugestões relacionadas a este projeto, sinta-se à vontade para entrar em contato por meio do seguinte e-mail: contato@rfid-sistema-presenca.com.
-
-*Este documento foi criado em Markdown. Para visualizar corretamente, você pode utilizar um renderizador de Markdown ou serviços online, como o GitHub.*
