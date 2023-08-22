@@ -1,4 +1,4 @@
-Segue abaixo o código e a explicação barrada (em verde) ao lado das linhas.
+Segue abaixo o código e a explicação comentada.
 /* Layout de pinos usados:
  * --------------------------------------
  *             MFRC522      Arduino       
